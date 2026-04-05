@@ -100,6 +100,21 @@ header a{
     border: 1px solid #333; 
 }
 
+#about{
+    background: #111;
+    border: 3px dotted #aaa;
+    border-radius: 10px;
+    padding: 30px;
+    max-width: 600px;
+    margin: 30px auto;
+    text-align: left;
+}
+
+#about ul{
+    padding-left: 20px;
+    line-height: 1.8;
+}
+
 #proj{ 
     display: flex; 
     gap: 20px; 
@@ -174,7 +189,6 @@ button{
 footer{ 
     padding: 40px; 
     text-align: center; 
-
 }
 
 .socials img{ 
@@ -197,10 +211,16 @@ footer{
     header{ 
         text-align: center; 
     }
-
+    
+    #about{
+        padding: 20px;
+        margin: 20px 5%; 
+    }
+    
     h1{ 
         font-size: 35px; 
     }
+    
     .socials img{ 
     width: 20%;
     }
