@@ -93,6 +93,11 @@ header a{
     border-radius: 5px;
 }
 
+header a:hover{
+    background: #aaa;
+    color: #222;
+}
+
 #home img{ 
     width: 250px; 
     height: 250px; 
