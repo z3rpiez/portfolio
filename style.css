@@ -21,22 +21,6 @@ section{
     text-align: center;
 }
 
-#about {
-    background: #111;
-    border: 3px dotted #aaa;
-    border-radius: 10px;
-    margin: 50px 10%; 
-    padding: 40px;
-    display: block; 
-}
-
-#about ul {
-    display: inline-block; 
-    text-align: left;
-    color: #aaa;
-    list-style-position: inside; 
-}
-
 hr{
   width: 100%;
   border: 1px dashed #555;
@@ -213,10 +197,7 @@ footer{
     header{ 
         text-align: center; 
     }
-    #about{
-        margin: 20px 5%;
-        padding: 20px; 
-    }
+
     h1{ 
         font-size: 35px; 
     }
