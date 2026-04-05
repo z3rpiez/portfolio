@@ -94,8 +94,8 @@ header a{
 }
 
 header a:hover{
-    background: #fff;
-    color: #222;
+    background: #222;
+    color: #fff;
 }
 
 #home img{ 
