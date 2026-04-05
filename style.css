@@ -20,6 +20,22 @@ section{
     margin: auto;
     text-align: center;
 }
+
+#about{
+    background: #111;
+    border: 3px dotted #aaa;
+    border-radius: 10px;
+    margin: 50px auto;
+    max-width: 800px;
+    padding: 40px 10%;
+}
+
+#about ul{
+    display: inline-block;
+    text-align: left;
+    color: #aaa;
+}
+
 hr{
   width: 100%;
   border: 1px dashed #555;
@@ -196,7 +212,10 @@ footer{
     header{ 
         text-align: center; 
     }
-
+    #about{
+        margin: 20px 5%;
+        padding: 20px; 
+    }
     h1{ 
         font-size: 35px; 
     }
