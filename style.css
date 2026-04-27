@@ -41,7 +41,7 @@ nav{
     position: sticky;
     top: 0;
     border-bottom: 2px dashed #d1cfcf;
-    z-index: 9;
+    z-index: 10;
 }
 
 nav ul{ 
